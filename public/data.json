@@ -1,137 +1,98 @@
 [
   {
     "id": 1,
-    "name": "AI Writing Pro",
-    "description": "Generate high-quality content, blogs, and marketing copy using advanced AI.",
-    "price": 29,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with AI-powered suggestions and modern templates.",
+    "price": 9,
     "period": "monthly",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
-    "icon": "✍️",
-    "features": [
-      "Unlimited AI generations",
-      "50+ writing templates",
-      "Grammar checker"
-    ]
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4"
   },
   {
     "id": 2,
-    "name": "Design Templates Pack",
-    "description": "Premium templates for social media, presentations, and marketing.",
-    "price": 49,
+    "name": "Portfolio Website Kit",
+    "description": "Launch your personal portfolio with ready-made sections and hosting support.",
+    "price": 60,
     "period": "one-time",
-    "tag": "Popular",
-    "tagType": "popular",
-    "icon": "🎨",
-    "features": [
-      "2000+ templates",
-      "Monthly updates",
-      "Commercial license"
-    ]
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Custom domains", "Responsive design", "SEO optimized"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d"
   },
   {
     "id": 3,
-    "name": "Premium Stock Assets",
-    "description": "Access millions of royalty-free photos, videos, and graphics.",
-    "price": 19,
+    "name": "Job Tracker",
+    "description": "Track your job applications and manage interviews efficiently.",
+    "price": 40,
     "period": "monthly",
-    "tag": "New",
+    "tag": "new",
     "tagType": "new",
-    "icon": "📷",
-    "features": [
-      "10M+ assets",
-      "Commercial use",
-      "No attribution"
-    ]
+    "features": ["Application tracking", "Interview reminders", "Company notes"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f"
   },
   {
     "id": 4,
-    "name": "Automation Toolkit",
-    "description": "Automate repetitive tasks and streamline workflows efficiently.",
-    "price": 79,
-    "period": "monthly",
-    "tag": "Popular",
+    "name": "Cover Letter Generator",
+    "description": "Generate tailored cover letters in seconds using AI.",
+    "price": 20,
+    "period": "yearly",
+    "tag": "popular",
     "tagType": "popular",
-    "icon": "⚙️",
-    "features": [
-      "50+ automations",
-      "API access",
-      "Custom workflows"
-    ]
+    "features": ["AI writing assistant", "Custom templates", "Download options"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a"
   },
   {
     "id": 5,
-    "name": "Resume Builder Pro",
-    "description": "Create professional resumes and cover letters easily.",
+    "name": "LinkedIn Optimizer",
+    "description": "Improve your LinkedIn profile visibility and engagement.",
     "price": 15,
-    "period": "one-time",
-    "tag": "New",
-    "tagType": "new",
-    "icon": "📄",
-    "features": [
-      "100+ templates",
-      "ATS optimization",
-      "Export to PDF"
-    ]
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Profile analysis", "Keyword suggestions", "Headline generator"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "image": "https://images.unsplash.com/photo-1611944212129-29977ae1398c"
   },
   {
     "id": 6,
-    "name": "Social Media Content Kit",
-    "description": "Complete toolkit for creating engaging social media content.",
-    "price": 39,
-    "period": "monthly",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
-    "icon": "📱",
-    "features": [
-      "5000+ assets",
-      "Scheduler included",
-      "Analytics dashboard"
-    ]
+    "name": "Interview Prep Kit",
+    "description": "Practice and prepare for interviews with curated questions and tips.",
+    "price": 30,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Mock interviews", "Common Q&A", "Expert tips"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df"
   },
   {
     "id": 7,
-    "name": "SEO Optimization Suite",
-    "description": "Boost your website ranking with powerful SEO tools.",
-    "price": 25,
+    "name": "Freelancer Toolkit",
+    "description": "Essential tools to manage freelance projects and clients.",
+    "price": 8,
     "period": "monthly",
-    "tag": "Popular",
+    "tag": "popular",
     "tagType": "popular",
-    "icon": "🔍",
-    "features": [
-      "Keyword analysis",
-      "On-page SEO tools",
-      "Competitor tracking"
-    ]
+    "features": ["Invoice generator", "Time tracking", "Client management"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1995/1995574.png",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
   },
   {
     "id": 8,
-    "name": "Email Marketing Pro",
-    "description": "Create and automate email campaigns with ease.",
-    "price": 20,
-    "period": "monthly",
-    "tag": "New",
-    "tagType": "new",
-    "icon": "📧",
-    "features": [
-      "Email templates",
-      "Automation campaigns",
-      "Open rate analytics"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Video Editing Toolkit",
-    "description": "Professional tools and assets for video editing.",
-    "price": 59,
-    "period": "one-time",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
-    "icon": "🎬",
-    "features": [
-      "1000+ video assets",
-      "Transitions & effects",
-      "4K export support"
-    ]
+    "name": "Career Coaching Plan",
+    "description": "Get personalized career advice and coaching sessions.",
+    "price": 100,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["1-on-1 sessions", "Career roadmap", "Skill assessment"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135789.png",
+    "image": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21"
   }
 ]
